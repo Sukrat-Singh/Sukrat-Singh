@@ -1,110 +1,109 @@
-# Hi, I'm Sukrat Singh 👋  
-Engineering Student @ IIT (ISM) Dhanbad  
+# Sukrat Singh
 
-I build data-driven systems and enjoy turning algorithms into production-ready solutions.  
-Currently focused on machine learning pipelines, time-series forecasting, and competitive programming.
+**B.Tech in Computer Science & Engineering · IIT (ISM) Dhanbad**
 
----
+CS undergrad with a strong interest in building robust ML systems and scalable backend services. I enjoy going from research papers to working implementations — whether that's training language models from scratch, designing forecasting pipelines, or writing clean, well-tested C++ for competitive programming.
 
-## 🧑‍💻 About Me
-- Engineering undergraduate at IIT (ISM) Dhanbad  
-- Interested in Backend Engineering, ML Systems, and Applied DSA  
-- I like working on projects that combine clean architecture with solid fundamentals  
-
----
-
-## 🛠 Tech Stack
-
-**Languages**  
-- C++  
-- Python  
-- SQL  
-
-**Machine Learning / Data**  
-- PyTorch  
-- Scikit-learn  
-- Pandas  
-- NumPy  
-
-**Backend & Tools**  
-- FastAPI  
-- Flask  
-- Git & GitHub  
-- Docker  
-- MLflow
-- Django 
+<p>
+  <a href="https://www.linkedin.com/in/sukratsingh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:24je0702@iitism.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Sukrat-Singh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-### 📈 Stock Price Prediction using LSTM
-- Built an end-to-end time series forecasting pipeline  
-- Implemented windowing, scaling, training, and evaluation modules  
-- Achieved RMSE ≈ 125 on unseen test data  
-- Integrated experiment tracking with MLflow  
-
-**Tech:** PyTorch, Pandas, MLflow  
-🔗 https://github.com/Sukrat-Singh/stock-price-prediction-lstm
+- B.Tech CSE undergraduate at **IIT (ISM) Dhanbad** (2024–2028)
+- Building at the intersection of **machine learning, backend engineering, and algorithms**
+- Currently exploring model deployment & monitoring, system design, and advanced algorithmic patterns
+- I care about writing clean, well-structured code — not just code that works
 
 ---
 
-### ⚙️ Django Learning Log
-- Django based web application with secure authentication and full CRUD functionality.
-- User authentication (Register, Login, Logout) implementation.
-- Clean UI styled with Bootstrap 5
-- Per-user data ownership (users can only access their own data)
+## Tech Stack
 
-**Tech:** Python, Django, SQLite  
-🔗 https://github.com/Sukrat-Singh/django-learning-log
+**Languages:** &nbsp; C++ · Python · SQL · Bash
 
----
+**ML & Data:** &nbsp; PyTorch · Scikit-Learn · Pandas · NumPy
 
-### 🧠 AI Mining Safety Agent
-- Developed an AI-based safety monitoring agent for mining environments  
-- Focused on intelligent decision logic and risk detection  
-- Domain-specific application with real-world relevance  
-
-**Tech:** Python  
-🔗 https://github.com/Sukrat-Singh/ai-mining-safety-agent
+**Backend & DevOps:** &nbsp; FastAPI · Django · Docker · Git · MLflow · Linux
 
 ---
 
-### ❤️ Heart Disease Predictor
-- Supervised machine learning project for heart disease prediction  
-- Performed data preprocessing, model training, and evaluation  
-- Compared multiple models for performance  
+## Projects
 
-**Tech:** Scikit-learn, Pandas  
-🔗 https://github.com/Sukrat-Singh/heart-disease-predictor
+### Anime Recommendation System
 
----
+Collaborative filtering recommendation engine using cosine similarity on a user–rating pivot matrix. Generates **Top-15 recommendations** from 7.8M user ratings across 12K anime titles. Integrates real-time metadata and poster art via the Jikan API, with visualizations of Top-100 anime statistics by rating, popularity, and genre.
 
-## 🧠 Problem Solving & DSA
-- Regularly solve DSA problems using **C++**  
-- Strong focus on:
-  - Dynamic Programming  
-  - Graphs  
-  - Sliding Window  
-  - Binary Search  
-- Platforms:
-  - LeetCode: https://leetcode.com/
-  - Codeforces: https://codeforces.com/
+**Stack:** Python · Recommendation Systems
+&nbsp;·&nbsp; [Repository →](https://github.com/Sukrat-Singh/anime-recommendation-system)
 
 ---
 
-## 📚 Currently Learning
-- Model deployment and monitoring  
-- Advanced DSA patterns  
-- System design fundamentals  
+### bengio-char-lm
+
+From-scratch implementation of the neural probabilistic language model (Bengio et al., 2003). Character-level model with learned embeddings, a feedforward context network, and softmax output. Trained on Tiny Shakespeare (~1M characters, context window of 10), reaching **1.75 validation loss** (5.77 perplexity) with hyperparameter tuning and mini-batch SGD.
+
+**Stack:** Python · PyTorch
+&nbsp;·&nbsp; [Repository →](https://github.com/Sukrat-Singh/bengio-char-lm)
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/Sukrat-Singh  
-- LinkedIn: www.linkedin.com/in/sukratsingh  
-- Email: 24je0702@iitism.ac.in  
+### AI Mining Safety Agent
+
+Intelligent safety monitoring agent designed for mining environments. Implements rule-based and AI-driven risk detection logic for hazard identification — built as a domain-specific application with real-world safety implications.
+
+**Stack:** Python
+&nbsp;·&nbsp; [Repository →](https://github.com/Sukrat-Singh/ai-mining-safety-agent)
 
 ---
 
-⭐ Feel free to explore my repositories or reach out if you'd like to collaborate!
+### minimal_autograd_engine
+
+A minimal reverse-mode automatic differentiation engine built from the ground up. Constructs dynamic computational graphs, performs forward passes, and computes gradients via topological-order backpropagation. Designed to demystify how frameworks like PyTorch handle autograd under the hood.
+
+**Stack:** Python
+&nbsp;·&nbsp; [Repository →](https://github.com/Sukrat-Singh/minimal_autograd_engine)
+
+---
+
+## Problem Solving
+
+Active competitive programmer in **C++**, focused on dynamic programming, graph algorithms, sliding window techniques, and binary search.
+
+**LeetCode:** [Profile](https://leetcode.com/u/Sukrat-Singh)&nbsp;&nbsp;·&nbsp;&nbsp;**Codeforces:** [Profile](https://codeforces.com/profile/Sukrat-Singh)
+
+> _Update the profile links above with your exact usernames if they differ._
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Sukrat-Singh">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sukrat-Singh&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Sukrat-Singh">
+    <img src="https://streak-stats.demolab.com/?user=Sukrat-Singh&theme=default&hide_border=true" height="165" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sukrat-Singh">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sukrat-Singh&layout=compact&theme=default&hide_border=true" height="150" alt="Top Languages" />
+  </a>
+</p>
+
+<!--
+  If the stats cards above don't load, the Vercel instance may be rate-limited.
+  You can deploy your own for free: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+-->
+
+---
+
+<p align="center">
+  Open to collaborations — feel free to explore my work or reach out.
+</p>
