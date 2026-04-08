@@ -73,7 +73,7 @@ A minimal reverse-mode automatic differentiation engine built from the ground up
 
 Active competitive programmer in **C++**, focused on dynamic programming, graph algorithms, sliding window techniques, and binary search.
 
-**LeetCode:** [Profile](https://leetcode.com/u/Sukrat-Singh)&nbsp;&nbsp;·&nbsp;&nbsp;**Codeforces:** [Profile](https://codeforces.com/profile/Sukrat-Singh)
+**LeetCode:** [Profile](https://leetcode.com/u/Sukrat_Singh)&nbsp;&nbsp;·&nbsp;&nbsp;**Codeforces:** [Profile](https://codeforces.com/profile/Sukrat_Singh)
 
 > _Update the profile links above with your exact usernames if they differ._
 
