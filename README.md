@@ -75,7 +75,6 @@ Active competitive programmer in **C++**, focused on dynamic programming, graph 
 
 **LeetCode:** [Profile](https://leetcode.com/u/Sukrat_Singh)&nbsp;&nbsp;·&nbsp;&nbsp;**Codeforces:** [Profile](https://codeforces.com/profile/Sukrat_Singh)
 
-> _Update the profile links above with your exact usernames if they differ._
 
 ---
 
